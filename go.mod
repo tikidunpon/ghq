@@ -14,3 +14,5 @@ require (
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
+
+replace github.com/saracen/walker v0.1.1 => github.com/shogo82148/walker v0.1.2-0.20210223235556-09d564d13dea
